@@ -1,0 +1,4 @@
+baseURL = 'alizardguy.github.io/info/'
+languageCode = 'en-us'
+title = 'zard site'
+theme = 'ananke'
