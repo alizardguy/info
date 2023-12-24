@@ -1,6 +1,6 @@
 +++
 title = 'Index'
 date = 2023-12-23T20:02:01-08:00
-draft = true
+draft = false
 +++
-# hi
+# Welcome to my site :D
